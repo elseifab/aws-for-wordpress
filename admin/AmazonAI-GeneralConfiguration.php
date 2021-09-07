@@ -145,6 +145,7 @@ class AmazonAI_GeneralConfiguration
                 'eu-west-2' => 'EU (London)',
                 'eu-west-3' => 'EU (Paris)',
                 'eu-central-1' => 'EU (Frankfurt)',
+                'eu-north-1' => 'EU (Stockholm)',
                 'ca-central-1' => 'Canada (Central)',
                 'sa-east-1' => 'South America (Sao Paulo)',
                 'ap-southeast-1' => 'Asia Pacific (Singapore)',
