@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '4a2addff3fd908d9a8f839d4f6e8a41e207626b7',
+    'reference' => '48fda89d19764ec00bf2db80b36c6c1b80f122cc',
     'name' => 'elseifab/aws-for-wordpress',
   ),
   'versions' => 
@@ -22,12 +22,12 @@
     ),
     'aws/aws-sdk-php' => 
     array (
-      'pretty_version' => '3.192.0',
-      'version' => '3.192.0.0',
+      'pretty_version' => '3.192.1',
+      'version' => '3.192.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '3f3026ecd3ef534701499ce98c8e3393604fca8b',
+      'reference' => '60b618429c040b4a1f567cf9ee56b3d2d14fe54b',
     ),
     'elseifab/aws-for-wordpress' => 
     array (
@@ -36,7 +36,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '4a2addff3fd908d9a8f839d4f6e8a41e207626b7',
+      'reference' => '48fda89d19764ec00bf2db80b36c6c1b80f122cc',
     ),
     'guzzlehttp/guzzle' => 
     array (
