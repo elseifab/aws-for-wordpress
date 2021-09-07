@@ -76,7 +76,7 @@ class AmazonAI_PollyService {
 			$logger->log(sprintf('%s Starting background task process ( id=%s )', __METHOD__, $post_id));
 	    $background_task = new AmazonAI_BackgroundTask();
 	    $background_task->trigger(self::GENERATE_POST_AUDIO_TASK, [ $post_id ]);
-        $this->generate_audio( $post_id );
+//        $this->generate_audio( $post_id );
 		}
 	}
 
