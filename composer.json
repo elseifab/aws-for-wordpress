@@ -1,7 +1,7 @@
 {
     "name": "elseifab/aws-for-wordpress",
     "require": {
-        "aws/aws-sdk-php": "3.*",
-        "symfony/polyfill-mbstring": "1.17"
+        "aws/aws-sdk-php": "^3.192",
+        "symfony/polyfill-mbstring": "^1.17"
     }
 }
